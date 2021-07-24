@@ -62,7 +62,7 @@ lastmod: 2021-05-27T19:23:18+02:00
     <div class="package">
     <div class=""><img src="galaxy.png" width="80px"></div>
     <div class="name">Galaxy</div>
-    <div class="price">15,000 MAD</div>
+    <div class="price">1,500 MAD</div>
     <div class="trial">Free 30 day trial</div>
     <hr>
     <ul>
