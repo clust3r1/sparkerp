@@ -118,14 +118,15 @@
     margin-top: 20px;
     width: 204px;
   }
-}
-
-@media (min-width: 767px) {
-  .package{
-    margin-top: 20px;
-    width: 100%;
+  .wrapper {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 200;
+  color: #9f9f9f;
+  font-size: 15px;
+  margin-left: 0px;
   }
 }
+
 .btn {
   font-family: 'Quicksand', sans-serif;
   font-weight: 700;
