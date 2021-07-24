@@ -8,7 +8,7 @@ lastmod: 2021-05-27T19:23:18+02:00
     <div class="package">
     <div class=""><img src="moon.png" width="80px"></div>
     <div class="name">Planet</div>
-    <div class="price">2,000 MAD</div>
+    <div class="price">700 MAD</div>
     <div class="trial">Free 30 day trial</div>
     <hr>
     <ul>
@@ -35,7 +35,7 @@ lastmod: 2021-05-27T19:23:18+02:00
     <div class="package brilliant">
     <div class=""><img src="sun.png" width="80px"></div>
     <div class="name">Star</div>
-    <div class="price">6,000 MAD</div>
+    <div class="price">1,000 MAD</div>
     <div class="trial">Free 30 day trial</div>
     <hr>
     <ul>
@@ -62,7 +62,7 @@ lastmod: 2021-05-27T19:23:18+02:00
     <div class="package">
     <div class=""><img src="galaxy.png" width="80px"></div>
     <div class="name">Galaxy</div>
-    <div class="price">16,000 MAD</div>
+    <div class="price">15,000 MAD</div>
     <div class="trial">Free 30 day trial</div>
     <hr>
     <ul>
