@@ -112,7 +112,14 @@
 @media (min-width: 768px) {
   .package{
     margin-top: 20px;
-    width: 204px;
+  }
+}
+
+@media (max-width: 768px) {
+  .wrapper {
+    font-family: 'Quicksand', sans-serif;
+    display: block;
+    margin-left: 0px;
   }
 }
 
